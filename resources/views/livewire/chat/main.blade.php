@@ -7,7 +7,6 @@
         </h2>
     </x-slot>
 
-    <div class="test">Test</div>
     <div class="chat_container">
         <div class="chat_list_container">
             @livewire('chat.chatlist')
