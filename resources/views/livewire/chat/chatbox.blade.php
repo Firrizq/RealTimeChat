@@ -10,10 +10,10 @@
         <div class="name">Zirjy</div>
         <div class="info">
             <div class="info_item">
-                <i class="bi bi-telephone-fill"></i>
+                <i class="bi bi-telephone"></i>
             </div>
             <div class="info_item">
-                <i class="bi bi-image"></i>
+                <i class="bi bi-camera-video"></i>
             </div>
             <div class="info_item">
                 <i class="bi bi-info-circle"></i>
@@ -22,12 +22,28 @@
     </div>
 
     <div class="chatbox_body">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate voluptates sint minima nemo sit praesentium.
-        Illum dolore dolorum tempora voluptas animi rem, natus rerum eligendi molestias fugiat voluptates, cumque eum.
-
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium aspernatur eum repellat sit dicta quia
-        eligendi sapiente numquam, obcaecati reprehenderit labore quas quasi aperiam at voluptates, praesentium facilis.
-        Quidem, dolorem.
+        <div class="msg_body msg_body_receiver">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptatum dolorem similique incidunt expedita inventore porro, vitae esse at aspernatur laudantium maxime ab praesentium qui impedit architecto culpa ipsa eveniet.
+            <div class="msg_body_footer">
+                <div class="date">
+                    17.33
+                </div>
+                <div class="read">
+                    <i class="bi bi-check2"></i>
+                </div>
+            </div>
+        </div>
+        <div class="msg_body msg_body_me">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptatum dolorem similique incidunt expedita inventore porro, vitae esse at aspernatur laudantium maxime ab praesentium qui impedit architecto culpa ipsa eveniet.
+            <div class="msg_body_footer">
+                <div class="date">
+                    17.33
+                </div>
+                <div class="read">
+                    <i class="bi bi-check2"></i>
+                </div>
+            </div>
+        </div>
     </div>
 
 </div>
